@@ -1,0 +1,15 @@
+body {
+	font-family: helvetica;
+	background-color: #FFCFA5;
+	color: #2E2A27;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+
+a {
+	color: #000000;
+	font-weight: bold;
+}
